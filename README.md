@@ -4,7 +4,8 @@ MbWekCenter is a web application. MbWekCenter is an online shop app that can be 
 
 Admin Login:
 Email address: admin@gmail.com <br />
-Password: admin
+Password: admin <br /> <br />
 
+To run this code, it is required to add the 'vendor' folder
 
 
